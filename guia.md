@@ -1,25 +1,13 @@
 # Manual de Sobrevivência do 1º Ano Técnico
 
-Capitulo 2: O que saber antes de entrar no curso de Desenvolvimento de Sistemas
+Capitulo 4: Como se organizar 
 
-Entrar no curso técnico de Desenvolvimento de Sistemas (DS) é o primeiro passo para aprender a criar programas, sites, aplicativos e diversas soluções tecnológicas. Muitas pessoas acreditam que é necessário saber programar antes de iniciar o curso, mas isso não é verdade. O objetivo do curso é justamente ensinar esses conhecimentos. Ainda assim, algumas habilidades podem facilitar bastante o aprendizado e tornar sua adaptação mais tranquila.
+Se você acha que vai conseguir guardar todas as datas de provas, trabalhos e atividades na memória, este é o primeiro aviso deste manual: não vai. O curso de Desenvolvimento de Sistemas possui disciplinas do Ensino Médio e matérias técnicas, o que faz com que a rotina seja mais intensa. Por isso, a organização deixa de ser apenas uma qualidade e passa a ser uma necessidade.
 
-1. Tenha uma boa base de informática
+Uma das melhores estratégias é criar uma rotina de estudos. Reserve um tempo durante a semana para revisar o conteúdo das aulas e praticar programação. Não espere apenas pelas avaliações para estudar, pois muitos conteúdos dependem do que foi aprendido anteriormente. Quanto mais você praticar, mais facilidade terá para resolver exercícios e desenvolver projetos.
 
-O computador será sua principal ferramenta durante todo o curso. Por isso, é importante saber realizar tarefas básicas, como organizar arquivos e pastas, instalar programas, utilizar navegadores de internet, compactar arquivos e usar aplicativos de edição de texto e planilhas. Esses conhecimentos são utilizados constantemente nas atividades e projetos desenvolvidos ao longo do curso.
+Outra dica importante é anotar todas as datas de provas, entregas de trabalhos e apresentações. Você pode usar uma agenda, um calendário no celular ou qualquer ferramenta que funcione para você. Também vale a pena manter seus materiais organizados, separando cadernos, arquivos e projetos em pastas. Isso facilita muito quando precisar revisar algum conteúdo ou encontrar um arquivo importante.
 
-2. Aprenda inglês básico ou intermediário
+Evite deixar tudo para a última hora. Além de aumentar o estresse, isso pode comprometer a qualidade das suas atividades. Quando você se organiza, consegue dividir as tarefas ao longo da semana, estudar com mais tranquilidade e ainda encontrar tempo para descansar e aproveitar os momentos com seus amigos.
 
-Grande parte da tecnologia utiliza o inglês. Linguagens de programação, documentações, mensagens de erro e diversos materiais de estudo estão nesse idioma. Não é necessário ser fluente, mas compreender palavras e textos simples facilitará muito seus estudos e permitirá que você encontre mais conteúdos e soluções para os desafios encontrados durante o curso.
-
-3. Desenvolva seu raciocínio lógico
-
-Programar é, acima de tudo, resolver problemas. Antes de escrever um código, é preciso pensar na melhor maneira de solucionar uma situação de forma organizada. Exercícios de lógica, jogos de raciocínio e desafios matemáticos ajudam a desenvolver essa habilidade, que será utilizada em praticamente todas as disciplinas relacionadas à programação.
-
-4. Aprenda a pesquisar e estudar de forma autônoma
-
-Na área de tecnologia, ninguém sabe tudo. Mesmo profissionais experientes pesquisam diariamente para aprender novas ferramentas ou resolver problemas. Durante o curso, é importante desenvolver o hábito de buscar informações em documentações, tutoriais e materiais confiáveis, além de praticar os conteúdos aprendidos em sala de aula. A dedicação fora das aulas faz muita diferença no aprendizado.
-
-Conclusão
-
-Você não precisa entrar no curso sabendo programar, mas possuir uma boa base de informática, conhecimentos básicos de inglês, raciocínio lógico, autonomia nos estudos e vontade de aprender certamente facilitará sua trajetória. Com dedicação e prática, você aproveitará melhor as oportunidades oferecidas pelo curso e construirá uma base sólida para sua formação como desenvolvedor.
+A verdade é que ninguém consegue ser organizado o tempo todo, e tudo bem. O importante é criar hábitos que facilitem sua rotina e não desistir quando algo sair do planejado. Com disciplina, planejamento e um pouco de dedicação, o 1º ano de Desenvolvimento de Sistemas se torna muito mais tranquilo. Afinal, sobreviver ao curso não depende apenas de saber programar, mas também de saber organizar seu tempo e suas responsabilidades.
