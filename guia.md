@@ -1,26 +1,25 @@
 # Manual de Sobrevivência do 1º Ano Técnico
-O choque mais real do primeiro ano é descobrir que o ritmo da ETEC não perdoa e que a sua organização no Microsoft Teams vai ditar se você vai ter paz ou cabelos brancos.
 
-O Sistema de Menções
-Aqui o boletim funciona com letras, e a lógica é direta:
+Capitulo 2: O que saber antes de entrar no curso de Desenvolvimento de Sistemas
 
-MB (Muito Bom) e B (Bom): Você está seguro. Significa que entendeu a matéria e entregou o que foi pedido.
+Entrar no curso técnico de Desenvolvimento de Sistemas (DS) é o primeiro passo para aprender a criar programas, sites, aplicativos e diversas soluções tecnológicas. Muitas pessoas acreditam que é necessário saber programar antes de iniciar o curso, mas isso não é verdade. O objetivo do curso é justamente ensinar esses conhecimentos. Ainda assim, algumas habilidades podem facilitar bastante o aprendizado e tornar sua adaptação mais tranquila.
 
-R (Regular): Passa raspando. É o famoso "tá bom, mas dá para melhorar".
+1. Tenha uma boa base de informática
 
-I (Insuficiente): Significa que você não atingiu os objetivos mínimos e vai direto para a recuperação.
+O computador será sua principal ferramenta durante todo o curso. Por isso, é importante saber realizar tarefas básicas, como organizar arquivos e pastas, instalar programas, utilizar navegadores de internet, compactar arquivos e usar aplicativos de edição de texto e planilhas. Esses conhecimentos são utilizados constantemente nas atividades e projetos desenvolvidos ao longo do curso.
 
-A Realidade dos Prazos no Teams
-Esqueça os mitos: os prazos no Teams são exatos. Se o professor marcou o limite para as 23h59, o sistema vai fechar exatamente nesse horário. O mesmo vale para prazos específicos que eles costumam colocar, como até o meio-dia (12h00) ou até o final daquela aula.
+2. Aprenda inglês básico ou intermediário
 
-O perigo da última hora: Embora o sistema aceite a entrega até o último minuto, deixar para clicar em "Enviar" às 23h58 é pedir para dar errado. A internet oscila, o arquivo do código decide travar ou o Teams fica lento porque tem muita gente entregando junto. Entregue um pouco antes para garantir.
+Grande parte da tecnologia utiliza o inglês. Linguagens de programação, documentações, mensagens de erro e diversos materiais de estudo estão nesse idioma. Não é necessário ser fluente, mas compreender palavras e textos simples facilitará muito seus estudos e permitirá que você encontre mais conteúdos e soluções para os desafios encontrados durante o curso.
 
-Rotina de Checagem e as Videoaulas Salvadoras
-O Teams vai ser a sua rede social mais acessada. Crie o hábito de entrar todo santo dia para checar se há atualizações.
+3. Desenvolva seu raciocínio lógico
 
-Ganhe tempo de aula: Os professores frequentemente postam materiais extras, códigos de exemplo e, principalmente, videoaulas. Eles fazem isso para poupar o tempo precioso de explicação na lousa e deixar o momento presencial focado na prática. Assistir a esses vídeos em casa ajuda você a não ficar boiando quando chegar no laboratório.
+Programar é, acima de tudo, resolver problemas. Antes de escrever um código, é preciso pensar na melhor maneira de solucionar uma situação de forma organizada. Exercícios de lógica, jogos de raciocínio e desafios matemáticos ajudam a desenvolver essa habilidade, que será utilizada em praticamente todas as disciplinas relacionadas à programação.
 
-O Efeito Cumulativo: Nunca Esqueça o Passado
-Em Desenvolvimento de Sistemas, o conhecimento é uma escada. Você nunca joga uma matéria fora.
+4. Aprenda a pesquisar e estudar de forma autônoma
 
-Estude as linguagens passadas: Se você aprendeu lógica de programação, HTML ou o básico de uma linguagem no começo do ano, você vai continuar usando isso até o fim do curso. Não cometa o erro de estudar só para passar na menção e "deletar" o assunto da mente. Se a sua base for fraca, as linguagens novas e mais complexas que virão pela frente parecerão impossíveis de aprender.
+Na área de tecnologia, ninguém sabe tudo. Mesmo profissionais experientes pesquisam diariamente para aprender novas ferramentas ou resolver problemas. Durante o curso, é importante desenvolver o hábito de buscar informações em documentações, tutoriais e materiais confiáveis, além de praticar os conteúdos aprendidos em sala de aula. A dedicação fora das aulas faz muita diferença no aprendizado.
+
+Conclusão
+
+Você não precisa entrar no curso sabendo programar, mas possuir uma boa base de informática, conhecimentos básicos de inglês, raciocínio lógico, autonomia nos estudos e vontade de aprender certamente facilitará sua trajetória. Com dedicação e prática, você aproveitará melhor as oportunidades oferecidas pelo curso e construirá uma base sólida para sua formação como desenvolvedor.
